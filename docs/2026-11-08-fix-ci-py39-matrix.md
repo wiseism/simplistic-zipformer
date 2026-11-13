@@ -14,3 +14,7 @@
 | Run | 结果 |
 |---|---|
 | 42427295510 | ✅ success |
+
+## 复核（2026-11-13）
+- 仓库由 private 转 public（Free 分钟额度耗尽会被 billing 拦截）。
+- docs 推送触发的新 run 重跑后 ✅ success。
